@@ -1,0 +1,23 @@
+{
+    "name": "1211音樂盒",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6",
+        "dfplayermini": "github:51bit/dfplayermini#v0.1.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
